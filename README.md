@@ -2,9 +2,9 @@
 Research Engineer at [Technische Universität
 Braunschweig](https://www.tu-braunschweig.de/kns/mitarbeiter/francisco-carpio)
 
-<!-- ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=fcarp10&show_icons=true&theme=tokyonight) -->
+<!-- ![GitHub stats](https://github-readme-stats-git-main-fcarp10.vercel.app/api/?username=fcarp10&show_icons=true&theme=tokyonight) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcarp10&layout=compact&show_icons=true&theme=tokyonight&hide=html,css,javascript)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-git-main-fcarp10.vercel.app/api/top-langs/?username=fcarp10&layout=compact&show_icons=true&theme=tokyonight&hide=html,css,javascript)
 
 
 <details>
