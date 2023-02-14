@@ -4,7 +4,7 @@ Braunschweig](https://www.tu-braunschweig.de/kns/mitarbeiter/francisco-carpio)
 
 <!-- ![GitHub stats](https://github-readme-stats-git-main-fcarp10.vercel.app/api/?username=fcarp10&show_icons=true&theme=tokyonight) -->
 
-![Top Langs](https://github-readme-stats-git-main-fcarp10.vercel.app/api/top-langs/?username=fcarp10&layout=compact&show_icons=true&theme=tokyonight&hide=html,css,javascript)
+![Top Langs](https://github-readme-stats-fcarp10.vercel.app/api/top-langs/?username=fcarp10&layout=compact&show_icons=true&theme=tokyonight&hide=html,css,javascript)
 
 
 <details>
