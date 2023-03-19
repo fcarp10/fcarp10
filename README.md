@@ -63,6 +63,10 @@ Braunschweig](https://www.tu-braunschweig.de/kns/mitarbeiter/francisco-carpio)
 
 #### 2023
 
+- I. Zacarias, F. Carpio, A. Drummond and A. Jukan, "Optimum Network Slicing
+  for Ultra-reliable Low Latency Communication (URLLC) Services in Campus Networks",
+  Accepted for publication at 2023 19th International Conference on the Design of 
+  Reliable Communication Networks (DRCN).
 - A. Jukan, X. Masip-Bruin, J. Dizdarević, F. Carpio, "Network of Things
   Engineering (NoTE) Lab", Springer, 1st ed., 2023. ISBN:
   [3-031-20634-7](https://link.springer.com/book/9783031206344).
