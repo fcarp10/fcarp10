@@ -48,8 +48,7 @@ Braunschweig](https://www.tu-braunschweig.de/kns/mitarbeiter/francisco-carpio)
 - [EU H2020 mF2C](https://cordis.europa.eu/project/id/730929): Towards an Open,
   Secure, Decentralized and Coordinated Fog-to-Cloud Management Ecosystem,
   2017-2019.
-- [BMBF
-  PLANETS-SENDATE](https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/sendate-planets):
+- [BMBF PLANETS-SENDATE](https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/sendate-planets):
   SEcure Networking for a DATa center cloud in Europe, 2016-2019.
 
 </details>
@@ -63,9 +62,14 @@ Braunschweig](https://www.tu-braunschweig.de/kns/mitarbeiter/francisco-carpio)
 
 #### 2023
 
+- I. Zacarias, F. Carpio, A. C. Drummond and A. Jukan, "Optimum Network Slicing
+  for Ultra-reliable Low Latency Communication (URLLC) Services in Campus
+  Networks," 2023 19th International Conference on the Design of Reliable
+  Communication Networks (DRCN), Vilanova i la Geltru, Spain, 2023, pp. 1-8,
+  DOI: [10.1109/DRCN57075.2023.10108188](https://doi.org/10.1109/DRCN57075.2023.10108188)​​​​​​​.
 - A. Jukan, X. Masip-Bruin, J. Dizdarević, F. Carpio, "Network of Things
-  Engineering (NoTE) Lab", Springer, 1st ed., 2023. ISBN:
-  [3-031-20634-7](https://link.springer.com/book/9783031206344).
+  Engineering (NoTE) Lab", Springer, 1st ed., 2023. ISBN: 3-031-20634-7, DOI:
+  [10.1007/978-3-031-20635-1](https://doi.org/10.1007/978-3-031-20635-1).
 - M. Bensalem, F. Carpio and A. Jukan, "Towards Optimal Serverless Function
   Scaling in Edge Computing Network" accepted for publication in ICC 2023 - 2023
   IEEE International Conference on Communications (ICC).
