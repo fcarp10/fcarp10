@@ -28,8 +28,10 @@ Braunschweig](https://www.tu-braunschweig.de/kns/mitarbeiter/francisco-carpio)
   🔭 Education
 </summary>
 
-- 2007 - 2014, M.Sc. & B.Sc. Telecommunications Engineering at [Universitat
-  Politècnica de Catalunya (UPC)](https://www.upc.edu/en/the-upc/schools/eetac).
+- Ph.D. (Dr.-Ing) [Technische Universität
+  Braunschweig](https://tu-braunschweig.de), Germany.
+- M.Sc. & B.Sc. Telecommunications Engineering, [Universitat Politècnica de
+  Catalunya (UPC)](https://www.upc.edu/en/the-upc/schools/eetac), Spain.
 
 </details>
 
@@ -62,6 +64,10 @@ Braunschweig](https://www.tu-braunschweig.de/kns/mitarbeiter/francisco-carpio)
 
 #### 2023
 
+- M. Bensalem, F. Carpio and A. Jukan, "Towards Optimal Serverless Function
+  Scaling in Edge Computing Network," ICC 2023 - IEEE International Conference
+  on Communications, Rome, Italy, 2023, pp. 828-833, doi:
+  [ICC45041.2023.10279357](https://doi.org/10.1109/ICC45041.2023.10279357).
 - I. Zacarias, F. Carpio, A. C. Drummond and A. Jukan, "Optimum Network Slicing
   for Ultra-reliable Low Latency Communication (URLLC) Services in Campus
   Networks," 2023 19th International Conference on the Design of Reliable
@@ -70,9 +76,7 @@ Braunschweig](https://www.tu-braunschweig.de/kns/mitarbeiter/francisco-carpio)
 - A. Jukan, X. Masip-Bruin, J. Dizdarević, F. Carpio, "Network of Things
   Engineering (NoTE) Lab", Springer, 1st ed., 2023. ISBN: 3-031-20634-7, DOI:
   [10.1007/978-3-031-20635-1](https://doi.org/10.1007/978-3-031-20635-1).
-- M. Bensalem, F. Carpio and A. Jukan, "Towards Optimal Serverless Function
-  Scaling in Edge Computing Network" accepted for publication in ICC 2023 - 2023
-  IEEE International Conference on Communications (ICC).
+
 
 #### 2022
 
